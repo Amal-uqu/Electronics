@@ -1,8 +1,8 @@
 # Electronics Task
-##After creating the circuit for stepper motor 
+## After creating the circuit for stepper motor 
 <img width="602" alt="stepperMotor" src="https://user-images.githubusercontent.com/108195103/181306565-096507f0-59e6-44f7-8663-99c602f2cc54.png">
 
-##I ran the following code:
+## I ran the following code:
 
 #include <Stepper.h>
 const int stepsPerRevolution = 200;  
